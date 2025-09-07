@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jtreddy.github.io/sitemap.xml
