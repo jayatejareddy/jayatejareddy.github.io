@@ -1,168 +1,161 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jaya Teja Reddy",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://jtreddy.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "jayatejareddypochimmireddy@gmail.com",
+    "phone": "",
+    "url": "https://jayatejareddy.github.io/",
+    "summary": "A India-born Computer Programmer with Post Grad degree in CS, I am interested in ML/DL research, Distributed systems, Database design and Backend engineering.",
+    "location": "",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "jayatejareddy",
+        "url": "https://linkedin.com/jayatejareddy"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Axtria - Ingenious Insights",
+      "position": "Analyst",
+      "url": "https://axtria.com",
+      "startDate": "2025-10-01",
+      "endDate": "Current",
+      "summary": "Developed automated data pipelines and intelligent query systems for pharma sales analytics, enhancing data reliability and performance. Recognized in the top 2% of analysts for delivering impactful solutions and clear stakeholder communication.",
+      "highlights": ""
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      /*"organization": "People's Climate March",
       "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]*/
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute Of Technology, Guwahati",
+      "location": "Guwahati, Assam, India",
+      "url": "https://www.iitg.ac.in/",
+      "dept": "Computer Science & Engineering",
+      "area": "Theoretical Machine Learning",
+      "studyType": "M.Tech Computer Science & Engineering",
+      "startDate": "2022-07-27",
+      "endDate": "2024-06-20",
+      "score": "",
+      "thesis": "Fairness Constraints in Maximum Margin Clustering",
+      "courses": ["Design Analysis of Algorithms", "Deep Learning", "Discrete Mathematics", "High performance Computing"," Image Processing with Machine Learning"]
+    },
+    {
+      "institution": "JNTUA College Of Engineering Pulivendula",
+      "location": "Pulivendula, A.P, India",
+      "url": "https://www.jntuacep.ac.in/",
+      "area": "Computer Science",
+      "studyType": "B.Tech Computer Science & Engineering",
+      "startDate": "2018-08-02",
+      "endDate": "2022-05-20",
+      "score": "",
+      "thesis": "",
+      "courses": ["Design Analysis of Algorithms", "C programming", "Operating Systems", "Database Design","Computer Architecture","Compiler Design", "Distributed Systems","Software Engineering"]
     }
   ],
-  "awards": [
+  "achievements": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "GATE CS AIR 809",
+      "date": "2022",
+      "awarder": "GATE",
+      "url": "",
+      "summary": "Secured All India Rank 809(98.94 percentile) among all candidates"
+    },
+    {
+      "title": "40th position in VOT2023",
+      "date": "2023",
+      "awarder": "ICCV",
+      "url": "",
+      "summary": "Attained 40th position in VOT2023 workshop organised by ICCV."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2025-Aug",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/earner/earned/badge/80b1680b-7006-4002-b1be-4fa1dd8b77bf",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Google Project Management",
+      "date": "2023-Aug",
+      "issuer": "Google",
+      "url": "https://www.coursera.org/account/accomplishments/professional-cert/VFJKV6RBL5NL",
+      "icon": "fa-solid fa-envelope"
     }
   ],
   "publications": [
-    {
+    /*{
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+   */
   ],
   "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  {
+    "name": "Programming",
+    "keywords": ["C/C++", "Python", "Rust", "Matlab"]
+  },
+  {
+    "name": "Web",
+    "keywords": [ "JavaScript","React","Postgresql","MySql"]
+  },
+  {
+    "name": "Frameworks",
+    "keywords": ["Flask", "Django"]
+  },
+  {
+    "name": "Infrastructure",
+    "keywords": ["Docker","Azure","AWS"]
+  },
+  {
+    "name": "Operating Systems",
+    "keywords": ["Windows", "Linux"]
+  },
+  {
+    "name": "Tools/Softwares",
+    "keywords": ["VS Code", "Nvim", "Matlab", "Git", "Github","Databricks"]
+  },
+  {
+    "name": "Libraries",
+    "keywords": ["TensorFlow", "PyTorch", "NumPy", "Matplotlib", "Pandas", "OpenCV", "Tkinter"]
+  }
+],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Intermediate",
+      "icon": ""
     }
   ],
   "interests": [
-    {
+    /*{
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
@@ -173,28 +166,24 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
+    }*/
   ],
   "projects": [
     {
+      "name": "Will update soon",
+      "summary": "",
+      "highlights": "",
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    }
+    /*{
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
-    }
+    }*/
   ]
 }

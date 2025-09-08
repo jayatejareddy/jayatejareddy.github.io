@@ -194,9 +194,6 @@ exclude:
   - _pages/teaching.md
   - _projects/1_project.md
   - _pages/profiles.md
-  - _data/cv.yml
-  - assets/json/resume.json
-  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
