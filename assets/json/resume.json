@@ -118,7 +118,7 @@
   },
   {
     "name": "Frameworks",
-    "keywords": ["Flask", "Django"]
+    "keywords": ["FastAPI", "Django"]
   },
   {
     "name": "Infrastructure",
