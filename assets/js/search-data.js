@@ -51,11 +51,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
+            },{id: "books-python-distilled",
+          title: 'Python Distilled',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/python_distilled/";
             },},{
         id: 'social-email',
         title: 'email',
