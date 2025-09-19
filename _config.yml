@@ -194,6 +194,7 @@ exclude:
   - _pages/teaching.md
   - _projects/1_project.md
   - _pages/profiles.md
+  - _books/the_godfather.md
 keep_files:
   - CNAME
   - .nojekyll

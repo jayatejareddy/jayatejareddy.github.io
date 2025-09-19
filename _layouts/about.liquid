@@ -57,7 +57,8 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers [UNCOMMENT THIS IF YOU WANT TO ADD PUBLICATIONS ON HOME PAGE]
+    <!-- Selected papers [UNCOMMENT THIS IF YOU WANT TO ADD PUBLICATIONS ON HOME PAGE]    -->
+
     {% if page.selected_papers %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
@@ -65,7 +66,6 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    -->
 
     <!-- Social -->
     {% if page.social %}
